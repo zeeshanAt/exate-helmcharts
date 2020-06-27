@@ -1,1 +1,1 @@
-# exate-hemcharts
+# exate-helmcharts
